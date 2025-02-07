@@ -9,6 +9,7 @@ Title of the Project 2 : Enhancing ECG Readings through Adaptive Highpass Filter
 
 1) Embedded C Programming
 2) Embedded & IOT(Internet of Things)
-3) Signal Processing
-4) Eco Bot
+3) EcoStride-FootSteps For a Better Future
+4) Signal Processing
+5) Eco Bot
    
